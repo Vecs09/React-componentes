@@ -1,0 +1,16 @@
+
+.App {
+  background: rgb(64,180,58);
+  background: linear-gradient(90deg, rgba(64,180,58,1) 0%, rgba(253,251,29,1) 50%, rgba(69,137,252,1) 100%); 
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  text-shadow: -1px -1px 0 #000,  
+                1px -1px 0 #000,
+                -1px  1px 0 #000,
+                1px  1px 0 #000;
+  font-weight: bold;
+  font-size: 36px;
+}
